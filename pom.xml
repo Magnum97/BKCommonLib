@@ -54,8 +54,8 @@
 
         <!-- Repository for Vault API -->
         <repository>
-            <id>vault-repo</id>
-            <url>http://nexus.hc.to/content/repositories/pub_releases</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
 
         <!-- Repository for the ProtocolLib API -->
